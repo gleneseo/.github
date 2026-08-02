@@ -18,7 +18,7 @@
 
 ## Proof
 
-<!-- If this is a Node project with a `proof` script (e.g. `npm run proof`), run it and paste the output below. Omit this section otherwise. -->
+<!-- If this is a Node project, run `npm run build`. If it succeeds, run `npm run proof` and paste its output below. Omit this section otherwise. -->
 
 ```
 <paste `npm run proof` output here>
